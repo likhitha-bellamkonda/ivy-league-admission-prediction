@@ -13,13 +13,13 @@ This project estimates the probability of student admission to Ivy League Colleg
 - CGPA                 
 - Research             
 - Chance of Admit
-**Tools & Technologies**
-> Python
-> Pandas
-> NumPy
-> Matplotlib
-> Scikit-learn
-> Linear Regression
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Linear Regression
 ## Key Features
 - Exploratory Data Analysis (correlation heatmap, distribution plots)
 - Pre-Processing  (Handle Null values, Duplicates, Missing values)
