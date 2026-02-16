@@ -2,17 +2,17 @@
 This project estimates the probability of student admission to Ivy League College based on factors such as GRE, TOEFL, SOP, LOR, and CGPA. It helps applicants understand their admission chances and make informed decisions during the application process.
 
 ## Project Overview
-This project predicts the probability of admission into Ivy League universities using Linear Regression. The model is trained on academic and profile-based features.
+This project estimates the probability of student admission to Ivy League College based on factors such as GRE, TOEFL, SOP, LOR, and CGPA.It helps applicants understand their admission chances and make informed decisions during the application process.
 
-**Features Used**
-> GRE Score 
-> TOEFL Score          
-> University Rating    
-> SOP                  
-> LOR                  
-> CGPA                 
-> Research             
-> Chance of Admit
+## Features Used
+- GRE Score 
+- TOEFL Score          
+- University Rating    
+- SOP                  
+- LOR                  
+- CGPA                 
+- Research             
+- Chance of Admit
 **Tools & Technologies**
 > Python
 > Pandas
