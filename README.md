@@ -3,6 +3,7 @@ This project estimates the probability of student admission to Ivy League Colleg
 
 ## Project Overview
 This project predicts the probability of admission into Ivy League universities using Linear Regression. The model is trained on academic and profile-based features.
+
 **Features Used**
 > GRE Score 
 > TOEFL Score          
