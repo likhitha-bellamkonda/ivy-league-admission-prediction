@@ -38,3 +38,11 @@ Open **Project_1.ipynb** → **Run All** → See predictions instantly.
 **Likhitha** | Data Science | Data Analytics | Hyderabad | 
 | Targeting UAE IT roles | [www.linkedin.com/in/likhitha-ds]
 
+<img width="1286" height="860" alt="Screenshot 2026-05-02 170946" src="https://github.com/user-attachments/assets/9f587eae-abe3-448b-9501-ae8609518c58" />
+
+<img width="1434" height="759" alt="Screenshot 2026-05-02 171001" src="https://github.com/user-attachments/assets/00d390b2-b9ba-4cd6-a818-484b3ae4bf8c" />
+
+
+
+
+
